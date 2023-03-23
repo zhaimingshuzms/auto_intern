@@ -1,0 +1,5 @@
+VIDEO_DIR = "./videos"
+FRAME_DIR = "./frames"
+FEATURE_DIR = "./features"
+FEATURE_FNAME = "feature.pt"
+RESULT_DIR = "./results"
