@@ -55,4 +55,5 @@ def interact():
     one_action(url, dir)
 
 if __name__ == "__main__":
-    interact()
+    # interact()
+    run()
