@@ -31,9 +31,9 @@ class K_means_solver:
     
     def timelist(self):
         out = self.run()
-        ret = [int(self.x[i][-1]) for i in out.values()]
+        ret = [int(self.x[i][-1]+0.5) for i in out.values()]
         return ret
         
 if __name__ == "__main__":
-    print(K_means_solver().timelist())
+    print(K_means_solver().run())
 

@@ -15,7 +15,7 @@ class video2frame:
         success,image = vidcap.read()
         count = 0
         while success:
-            path  = os.path.join(FRAME_DIR, "frame%d.jpg" % count)
+            path  = os.path.join(FRAME_DIR, "frame%d.jpg" % (count//self.stride))
             if count % self.stride == 0:
                 cv2.imwrite(path, image)     # save frame as JPEG file      
             success, image = vidcap.read()
