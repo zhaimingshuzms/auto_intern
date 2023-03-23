@@ -26,6 +26,8 @@ class sheet_writer():
         res_dir = os.path.join(RESULT_DIR, dir)
         list = os.listdir(res_dir)
 
+        list.sort(key=lambda x:int(x.split('.')[0].removeprefix("frame")))
+        
         for i in range(len(list)):
             #print("try to save",i,list[i])
             path = os.path.join(res_dir, list[i])
