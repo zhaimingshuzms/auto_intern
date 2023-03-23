@@ -1,0 +1,10 @@
+urls=[
+    "https://www.youtube.com/shorts/GsRXFpaHlkI",
+    "https://www.youtube.com/shorts/g33apW3dHbU",
+    "https://www.youtube.com/shorts/NzLH4Adp5s4",
+    "https://www.youtube.com/shorts/6vi7J1SkViM",
+    "https://www.youtube.com/shorts/0RmHfkWTz5Y",
+    "https://www.youtube.com/shorts/jBSRmq_NPe8",
+    "https://www.youtube.com/shorts/mOHy0fGSyIU",
+    "https://www.youtube.com/shorts/6ClX6ZxI1u0"
+]
