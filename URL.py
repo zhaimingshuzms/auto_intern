@@ -1,4 +1,4 @@
-urls=[
+url_dict={"first_epoch":[
     "https://www.youtube.com/shorts/GN6FHHr4Al8",
     "https://www.youtube.com/watch?v=E7ps_BomGbo&t=108s",
     "https://www.youtube.com/shorts/GsRXFpaHlkI",
@@ -47,4 +47,5 @@ urls=[
     "https://www.youtube.com/shorts/IackpYx1J0Y",
     "https://www.youtube.com/shorts/m7v7tEpw72g",
     "https://www.youtube.com/shorts/VbKNKoZyzBs"
-]
+],
+"test":["https://www.youtube.com/watch?v=uS8Q-vCnR8M"]}

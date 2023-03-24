@@ -5,7 +5,7 @@ from feature_extractor import generate
 from kmeans import K_means_solver
 from utils import delete_files_in_dir
 from csvsolver import sheet_writer
-from URL import urls
+from URL import url_dict
 from tqdm import tqdm
 import os
 import cv2
@@ -38,8 +38,9 @@ def one_action(url, dir):
     save_results(res, dir)
     return crawler.video_name
 
-def run():
-    s = sheet_writer()
+def run(epoch_name):
+    urls = url_dict[epoch_name]
+    s = sheet_writer(epoch_name)
     for i in tqdm(range(len(urls))):
         name = one_action(urls[i], str(i))
         s.run(i+2, name, urls[i], str(i))
@@ -56,4 +57,4 @@ def interact():
 
 if __name__ == "__main__":
     # interact()
-    run()
+    run("test")

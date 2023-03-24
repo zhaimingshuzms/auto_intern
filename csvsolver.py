@@ -4,8 +4,8 @@ import xlsxwriter
 from PIL import Image
 from config import *
 class sheet_writer():
-    def __init__(self):
-        self.book = xlsxwriter.Workbook(r"pic.xlsx")
+    def __init__(self, name):
+        self.book = xlsxwriter.Workbook(f"{name}.xlsx")
         self.sheet = self.book.add_worksheet("res")
         self.sheet.write("A1","Task description")
         self.sheet.write("B1","natrual language(optional)")
