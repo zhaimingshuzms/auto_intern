@@ -1,4 +1,4 @@
-url_dict={"first_epoch":[
+url_dict={"plasticine":[
     "https://www.youtube.com/shorts/GN6FHHr4Al8",
     "https://www.youtube.com/watch?v=E7ps_BomGbo&t=108s",
     "https://www.youtube.com/shorts/GsRXFpaHlkI",
@@ -32,10 +32,6 @@ url_dict={"first_epoch":[
     "https://www.youtube.com/shorts/GmjDfrRENx4",
     "https://www.youtube.com/shorts/banEFoLjevY",
     "https://www.youtube.com/shorts/FrR7wgG8uB4",
-    "https://www.youtube.com/shorts/OYhKjdDGxg8",
-    "https://www.youtube.com/shorts/iC9vitOvhHY",
-    "https://www.youtube.com/shorts/smXvZRuVaFE",
-    "https://www.youtube.com/shorts/-Ir54O7ggBA",
     "https://www.youtube.com/shorts/mQHAQsa-HIw",
     "https://www.youtube.com/shorts/dWUnK9Q6jiQ",
     "https://www.youtube.com/shorts/xReDy1Ju8HM",
@@ -47,5 +43,31 @@ url_dict={"first_epoch":[
     "https://www.youtube.com/shorts/IackpYx1J0Y",
     "https://www.youtube.com/shorts/m7v7tEpw72g",
     "https://www.youtube.com/shorts/VbKNKoZyzBs"
+],
+"kinetic sand":[
+    "https://www.youtube.com/shorts/5IzvumrUWaU",
+    "https://www.youtube.com/shorts/T2g4UK8ISv8",
+    "https://www.youtube.com/shorts/6OlfDuf8vN8",
+    "https://www.youtube.com/shorts/9Y7OGWawZ1k",
+    "https://www.youtube.com/shorts/NmiEIh21-YY",
+    "https://www.youtube.com/watch?v=IxAz826NixY",
+    "https://www.youtube.com/shorts/kSRFw2JWkik",
+    "https://www.youtube.com/shorts/yD-WyRgqYwA",
+    "https://www.youtube.com/shorts/KCwUmusxxxc",
+    "https://www.youtube.com/shorts/gJ5vvi9zPks",
+    "https://www.youtube.com/watch?v=uGgcB1eTd8w&list=PLrHK01EpHHD4DJgCHpFy0cVutPJE8sCsQ&index=8"
+],
+"flour":[
+    "https://www.youtube.com/shorts/2xWontEtM6M",
+    "https://www.youtube.com/watch?v=IxdGYoAQVZU",
+    "https://www.youtube.com/shorts/wVH6gXp9wOg",
+    "https://www.youtube.com/shorts/rPl2scBECu8",
+    "https://www.youtube.com/shorts/XspHOAIgC5Y",
+    "https://www.youtube.com/shorts/DFaE1kGxG28",
+    "https://www.youtube.com/shorts/iu7fxfneSeE",
+    "https://www.youtube.com/shorts/6Jv4sjxrjSw",
+    "https://www.youtube.com/shorts/Rsh3NW6LBJo",
+    "https://www.youtube.com/shorts/7HjOo1xj2Pw",
+    "https://www.youtube.com/shorts/6ohZyyEWqyY"
 ],
 "test":["https://www.youtube.com/watch?v=uS8Q-vCnR8M"]}

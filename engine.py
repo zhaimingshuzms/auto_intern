@@ -57,4 +57,4 @@ def interact():
 
 if __name__ == "__main__":
     # interact()
-    run("test")
+    run("clay")
