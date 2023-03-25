@@ -15,5 +15,3 @@
 
 only youtube urls
 
-self.lim = 1600 in video2frame.py means first 1600 frames to sample
-

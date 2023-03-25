@@ -70,4 +70,28 @@ url_dict={"plasticine":[
     "https://www.youtube.com/shorts/7HjOo1xj2Pw",
     "https://www.youtube.com/shorts/6ohZyyEWqyY"
 ],
-"test":["https://www.youtube.com/watch?v=uS8Q-vCnR8M"]}
+"cloth":[
+    "https://www.youtube.com/shorts/05U9cTzGO2o",
+    "https://www.youtube.com/shorts/3JUuLJS7zNE",
+    "https://www.youtube.com/watch?v=HXJx8j7JpKY",
+    "https://www.youtube.com/shorts/fRY9gb4IDUE",
+    "https://www.youtube.com/shorts/JfUyAHIaNxo",
+    "https://www.youtube.com/shorts/-CRqnxNvCsc",
+    "https://www.youtube.com/shorts/HWVDtal9l5s",
+    "https://www.youtube.com/watch?v=j4wA3o5XKEs",
+    "https://www.youtube.com/shorts/DOvegiFggMQ",
+    "https://www.youtube.com/shorts/TVw5s8vFJhQ"
+],
+"rope":[
+    "https://www.youtube.com/shorts/-kIaNu00a4s",
+    "https://www.youtube.com/shorts/16vS3Wiy2qU",
+    "https://www.youtube.com/shorts/O16PaUTEUII",
+    "https://www.youtube.com/shorts/g1zVpzgYhQk",
+    "https://www.youtube.com/shorts/GdWtj_GE4jI",
+    "https://www.youtube.com/shorts/e3lysKeYPXg",
+    "https://www.youtube.com/shorts/ILoG6T9VSC8",
+    "https://www.youtube.com/shorts/J-8FFtlXsVw",
+    "https://www.youtube.com/shorts/CyxZCaa42-4",
+    "https://www.youtube.com/shorts/EE8Ue_ku7wo"
+],
+"test":["https://www.youtube.com/watch?v=RP6j7esQyjk&t=268s"]}
