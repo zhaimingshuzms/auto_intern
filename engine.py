@@ -3,7 +3,7 @@ from crawler import video_crawler
 from video2frame import video2frame
 from feature_extractor import generate
 from kmeans import K_means_solver
-from utils import delete_files_in_dir
+from utils import *
 from csvsolver import sheet_writer
 from URL import url_dict
 from tqdm import tqdm
@@ -28,6 +28,12 @@ def clear():
     delete_files_in_dir(VIDEO_DIR)
     delete_files_in_dir(FRAME_DIR)
     delete_files_in_dir(FEATURE_DIR)
+
+def check():
+    check_dir(VIDEO_DIR)
+    check_dir(FRAME_DIR)
+    check_dir(FEATURE_DIR)
+    check_dir(RESULT_DIR)
 
 def one_action(url, dir):
     clear()
@@ -58,4 +64,5 @@ def interact():
 
 if __name__ == "__main__":
     # interact()
+    check()
     run(sys.argv[1])
