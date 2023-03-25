@@ -1,7 +1,9 @@
 # auto_intern
-video in and critical frame out
+##### video url in and critical frame out
 
-URL.py stores the urls
+##### How to use it?
 
-python engine.py
+1.stores the urls with category in URL.py
+
+2.python engine.py "category"
 

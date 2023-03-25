@@ -9,6 +9,7 @@ from URL import url_dict
 from tqdm import tqdm
 import os
 import cv2
+import sys
 
 def save_results(res, dir):
     res_dir = os.path.join(RESULT_DIR, dir)
@@ -57,4 +58,4 @@ def interact():
 
 if __name__ == "__main__":
     # interact()
-    run("clay")
+    run(sys.argv[1])
