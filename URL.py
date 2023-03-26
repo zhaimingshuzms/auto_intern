@@ -68,7 +68,14 @@ url_dict={"plasticine":[
     "https://www.youtube.com/shorts/6Jv4sjxrjSw",
     "https://www.youtube.com/shorts/Rsh3NW6LBJo",
     "https://www.youtube.com/shorts/7HjOo1xj2Pw",
-    "https://www.youtube.com/shorts/6ohZyyEWqyY"
+    "https://www.youtube.com/watch?v=OfOscCN9uik",
+    "https://www.youtube.com/shorts/6ohZyyEWqyY",
+    "https://www.youtube.com/shorts/pFUDHGAaL08",
+    "https://www.youtube.com/shorts/4ma3zfi5muU",
+    "https://www.youtube.com/shorts/EHuSDmhDQp0",
+    "https://www.youtube.com/shorts/m_5iTMehfa8",
+    "https://www.youtube.com/shorts/wq3pxpJfGkA",
+    "https://www.youtube.com/shorts/9dhJk0a6FqE"
 ],
 "cloth":[
     "https://www.youtube.com/shorts/05U9cTzGO2o",
@@ -94,4 +101,5 @@ url_dict={"plasticine":[
     "https://www.youtube.com/shorts/CyxZCaa42-4",
     "https://www.youtube.com/shorts/EE8Ue_ku7wo"
 ],
-"test":["https://www.youtube.com/watch?v=RP6j7esQyjk&t=268s"]}
+"test":["https://www.youtube.com/watch?v=RP6j7esQyjk&t=268s"]
+}
