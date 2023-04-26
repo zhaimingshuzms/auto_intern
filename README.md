@@ -3,7 +3,7 @@
 
 ##### How to use it?
 
-1.pip install -r requirements
+1.pip install -r requirements.txt
 
 2.stores the urls with category in URL.py
 
